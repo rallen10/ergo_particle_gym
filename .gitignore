@@ -1,0 +1,8 @@
+*__pycache__*
+*.pkl
+expdata.*
+*.pyc
+*.ipynb_checkpoints*
+.fuse_hidden*
+experiments/default/policy/.*
+experiments/default/policy/checkpoint
