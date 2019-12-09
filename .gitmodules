@@ -3,10 +3,6 @@
     path = rl_algorithms/maddpg
     url = git@github.mit.edu:ergo/maddpg.git
     branch = master
-[submodule "particle_environments/multiagent_particle_envs"]
-    path = particle_environments/multiagent_particle_envs
-    url = git@github.mit.edu:ergo/multiagent-particle-envs.git
-    branch = master
 [submodule "rl_algorithms/baselines"]
     path = rl_algorithms/baselines
     url = git@github.mit.edu:ergo/baselines.git
