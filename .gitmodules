@@ -1,9 +1,12 @@
 
 [submodule "rl_algorithms/maddpg"]
-    path = rl_algorithms/maddpg
-    url = git@github.mit.edu:ergo/maddpg.git
+	path = rl_algorithms/maddpg
+	url = git@github.com:rallen10/maddpg.git
     branch = master
 [submodule "rl_algorithms/baselines"]
-    path = rl_algorithms/baselines
-    url = git@github.mit.edu:ergo/baselines.git
+	path = rl_algorithms/baselines
+	url = git@github.com:rallen10/baselines.git
     branch = master
+[submodule "particle_environments/multiagent_particle_envs"]
+	path = particle_environments/multiagent_particle_envs
+	url = git@github.com:rallen10/multiagent-particle-envs.git
